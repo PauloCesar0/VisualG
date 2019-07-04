@@ -27,3 +27,22 @@ Possui os comandos para se abrir, salvar e imprimir algoritmos;
 **Imprimir** Permite a impressão do algoritmo corrente, mostrando antes a janela de configuração de impressão (o correspondente botão da barra de tarefas imprime imediatamente o texto do pseudocódigo na impressora padrão).
 
 **Sair** Abandona o VisuAlg.
+
+Além destes comandos, há ainda a lista dos 5 últimos algoritmos utilizados, que podem ser abertos diretamente ao se escolher o seu nome.
+
+## Editar
+
+Além dos conhecidos comandos de um editor de texto (copiar, cortar, colar, desfazer, refazer, selecionar tudo, localizar, localizar de novo, substituir), há também as seguintes opções.
+
+**Corrigir indentação** Corrige automaticamente a indentação do pseudocódigo, tabulando cada comando interno com espaços à esquerda.
+
+**Gravar bloco de texto** Permite a gravação em arquivo de um texto selecionado no editor. A extensão sugerida para o nome do arquivo é .inc.
+
+**Inserir bloco de texto** Permite a inserção do conteúdo de um arquivo. A extensão sugerida para o nome do arquivo é .inc.
+
+## Exibir
+
+Possui os comandos para ativar/desativar as seguintes características.
+
+**Número de linhas** Ativa/desativa a exibição da numeração das linhas na área à esquerda do editor. A numeração corrente da posição do cursor também é mostrada na primeira parte da barra de status, situada na parte inferior da tela. Por motivos técnicas, a numeração é desativada durante a execução do pseudocódigo, voltando à situação anterior logo em seguida.
+
