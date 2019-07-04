@@ -14,5 +14,16 @@ O menu do Visualg compõe-se de 7 partes
 
 Possui os comandos para se abrir, salvar e imprimir algoritmos;
 
-*Novo* Cria um novo “esqueleto” de pseudocódigo, substituindo o texto existente no editor. Se este texto anterior tiver sido modificado, o VisuAlg pedirá sua confirmação para salvá-lo antes que seja sobreposto;
+**Novo** Cria um novo “esqueleto” de pseudocódigo, substituindo o texto existente no editor. Se este texto anterior tiver sido modificado, o VisuAlg pedirá sua confirmação para salvá-lo antes que seja sobreposto.
 
+**Abrir** Abre o texto de um pseudocódigo anteriormente gravado, substituindo o texto existente no editor. Se este tiver sido modificado, o VisuAlg pedirá sua confirmação para salvá-lo antes que seja sobreposto.
+
+**Salvar** Salva imediatamente o texto presente no editor. Caso seja a primeira vez que um novo texto é gravado, o VisuAlg pedirá o nome do arquivo e sua localização.
+
+**Salvar como** Permite salvar o texto presente no editor exibindo antes uma janela na qual se pode escolher o nome do arquivo e sua localização.
+
+**Enviar por email** Permite o envio por email do texto presente no editor.
+
+**Imprimir** Permite a impressão do algoritmo corrente, mostrando antes a janela de configuração de impressão (o correspondente botão da barra de tarefas imprime imediatamente o texto do pseudocódigo na impressora padrão).
+
+**Sair** Abandona o VisuAlg.
